@@ -51,10 +51,10 @@ int main()
      * item.
      */
 
-    lv_demo_widgets();
+    //lv_demo_widgets();
     //lv_demo_benchmark();
     //lv_demo_keypad_encoder();
-    //lv_demo_printer();
+    lv_demo_printer();
     //lv_demo_stress();
     //lv_ex_get_started_1();
     //lv_ex_get_started_2();
